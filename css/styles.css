@@ -1,0 +1,152 @@
+body{
+  font-family:'Montserrat';
+}
+
+
+#Home{
+  background-color: #5fdde5;
+}
+h1{
+  font-family: 'Poller One', cursive;
+  font-size: 3rem;
+  line-height: 1;
+}
+h1:hover{
+  color:white;
+}
+p{
+  color:#8f8f8f;
+  font-size: 1rem;
+}
+h2{
+  font-family:'Montserrat';
+  font-size: 2.5rem;
+  padding:5% 10%;
+  color: black;
+  font-weight: bold;
+}
+h3{
+  font-weight: bold;
+  font-size: 1.5rem;
+  font-family:'Montserrat';
+}
+.emoji{
+  font-size:2rem;
+  padding-top:20px;
+}
+.download-button{
+  margin:5% 3% 5% 0;
+
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  color:black;
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light';
+}
+.test-img{
+  height:300px;
+  width:300px;
+  border-radius: 70%;
+  padding-bottom: 10px;
+  margin:20px
+}
+#about{
+  padding:7% 15% ;
+}
+#testimonials{
+  background-color:  #5fdde5;
+  text-align: center;
+  padding:3% 7%;
+}
+.head{
+  padding-top:10px;
+  text-align: center;
+}
+.Feature-box{
+  padding:5%;
+  text-align: center;
+  margin:0 auto;
+
+}
+
+.icon{
+  color: red;
+  font-size:2rem;
+  margin-bottom: 1rem;
+
+}
+.icon:hover{
+  color:#ff4949
+}
+#press{
+  background-color: #5fdde5;
+  text-align: center;
+  padding-top:2%;
+
+}
+.logo{
+  width: 100px;
+  height:50px;
+}
+#pricing{
+  font-family: Montserrat;
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 100px;
+  text-align: center;
+}
+.price{
+  padding-bottom: 10px;
+}
+/* .top{
+  font-weight: bold;
+  font-size: 2.5rem;
+  font-family:'Montserrat';
+  text-align: center;
+  padding-bottom:10px;
+}
+.carousel-inner{
+  height:auto;
+  width:auto;
+  margin:0 auto;
+} */
+.cta{
+  text-align: center;
+}
+#contacts{
+background-color: #222831;
+padding:7% 10%;
+color:#fff;
+text-align: center;
+margin: 5% 5%;
+}
+.add{
+  padding-bottom: 4px;
+}
+.logo{
+  text-align: center;
+  width: 150px;
+  height: 150px;
+
+}
+.ctb{
+  color: white;
+}
+.foo {
+  color: white;
+  padding:2%;
+
+}
+#footer{
+  text-align: center;
+}
+.arrow{
+  float:left;
+  font-size: 4rem;
+}
